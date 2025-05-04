@@ -1,0 +1,3 @@
+- Classified client’s medical insurance claims into 4 categories(very good, good, bad, very bad) with 1.3K+ data
+- Performed feature encoding; handled imbalanced data using SMOTE; Applied LR, RF, GB & XGBoost model
+- Hypertuned Gradient Boosting via GridSearchCV; Achieved .921 recall, .901 F1 & .985 AUC-ROC score
