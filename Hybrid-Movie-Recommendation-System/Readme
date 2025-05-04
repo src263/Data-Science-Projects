@@ -1,0 +1,4 @@
+Hybrid Movie Recommendation system
+- Developed a hybrid movie RS integrating collaborative filtering with content-based graph on 34k movies
+- Leveraged pretrained Glove word embeddings and cosine similarity to link movies with similar storylines
+- Implemented collaborative filtering utilizing user-item interaction matrix factorization with SVD reduction
