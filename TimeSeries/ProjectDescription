@@ -1,0 +1,4 @@
+NEFT Volume Forecasting (Time Series)
+- Forecasted the daily volume of the NEFT transactions for a 30-day horizon using 3 years of transaction data
+- Conducted ADF test; Analysed dual-seasonality (MSTL), Residuals (Ljung-Box) and order with ACF & PACF
+- Modelled dual seasonality as an exogenous variable with SARIMAX & reduced RMSE by 32% over SARIMA
