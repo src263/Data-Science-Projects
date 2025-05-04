@@ -1,0 +1,3 @@
+Predicted price of pre-owned cars, performed EDA, plotted data to study the features and identify outliers
+Used OHE, correlation analysis & box-cox transform | Used VIF to check multicollinearity & feature selection
+Explored linear models (MLR, RIDGE & LASSO), tree-based models (RF & XGB) & achieved R2 value - 0.88
